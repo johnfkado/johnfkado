@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kadir Yalçın</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Selam 👋, Ben Kadir Yalçın</h1>
+<h3 align="center">Kendini geliştirmeye çalışan bir Emekçi</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
